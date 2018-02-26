@@ -11,8 +11,3 @@ deploy:
   on:
     repo: planetGSoC/planetGSoC.github.io
     branch: river
-script: true
-branches:
-  only:
-  - master
-  - river
